@@ -1,0 +1,6 @@
+framework module Pods_henging_appTests {
+  umbrella header "Pods-henging_appTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
